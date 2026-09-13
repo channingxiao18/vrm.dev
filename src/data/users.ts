@@ -2012,13 +2012,13 @@ export const users: User[] = [
       flags: F.Viewer | F.VrmAnimation | F.Vrm10,
       platforms: P.Windows | P.macOS,
       ja: {
-        title: "AniMate（萌灵）",
+        title: "萌灵桌宠",
         url: "https://getanimate.app/ja/",
         description: "Windows / macOS 対応のVRMデスクトップペット・AIコンパニオン。VRM 0.x / 1.0 モデルの読み込みに対応。撫でる・ドラッグ・カーソル追従などのインタラクション、AIチャット、カスタムTTS音声、モーション読み込み可能なダンス機能を搭載。ビルトインモデル2体は無料。",
         preview: "https://getanimate.app/assets/hero-illustration.png",
       },
       en: {
-        title: "AniMate",
+        title: "AniMate Waifu",
         url: "https://getanimate.app/",
         description: "An AI anime desktop pet and VRM companion for Windows / macOS. Supports VRM 0.x / 1.0 model import, interactions such as head pats, dragging and cursor tracking, AI chat with custom TTS voices, and a dance workshop with motion import. Two built-in models are free.",
         preview: "https://getanimate.app/assets/hero-illustration.png",
